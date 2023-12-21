@@ -1,0 +1,17 @@
+{
+    "it": {
+        "title": "CONTATTO",
+        "contentA": "Vuoi saperne di più su di noi? Vuoi saperne di più sui Tour Virtuali?",
+        "contentB": "Contattaci inviando una email a"
+    },
+    "es": {
+        "title": "CONTACTO",
+        "contentA": "¿Quieres saber más sobre nosotros? ¿Quieres saber más sobre los tours virtuales?",
+        "contentB": "Contáctanos enviando un email a"
+    },
+    "default": {
+        "title": "CONTACT",
+        "contentA": "Want to know more about us? Want to learn more about Virtual Tours?",
+        "contentB": "Contact us by sending an email to"
+    }
+}
